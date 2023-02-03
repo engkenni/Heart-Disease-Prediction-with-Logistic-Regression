@@ -3,7 +3,8 @@
 
 
 # Description
-Data science involves obtaining, analysing, and making decisions from data. Logistic Regression is a supervised machine learning algorithm that deals with dependent variables. In this session, I predict heart disease using the Logistic Regression algorithm.The workshop is on youtube
+
+In this session, I predict heart disease using the Logistic Regression algorithm.The workshop is on youtube
 
 
 
