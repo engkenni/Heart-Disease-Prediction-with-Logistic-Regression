@@ -20,7 +20,9 @@ I imported the data set from Kaggle : https://www.kaggle.com/datasets/yasserh/he
 The code reference: https://colab.research.google.com/drive/1FYGPRSEGvd0urNlZmRJHx-gq6ANn3IpX?usp=sharing
 
 https://www.python.org/
+
 https://scikit-learn.org/stable/
+
 https://www.youtube.com/watch?v=qmqCYC-MBQo&t=457s
-Verma, R., Nagar, V. and Mahapatra, S. (2021). Introduction to Supervised Learning. In Data Analytics in Bioinformatics (eds R. Satpathy, T. Choudhury, S. Satpathy, S.N. Mohanty and X. Zhang). https://doi.org/10.1002/9781119785620.ch1
+
 Verma, R., Nagar, V. and Mahapatra, S. (2021). Introduction to Supervised Learning. In Data Analytics in Bioinformatics (eds R. Satpathy, T. Choudhury, S. Satpathy, S.N. Mohanty and X. Zhang). https://doi.org/10.1002/9781119785620.ch1
